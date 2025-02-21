@@ -74,14 +74,13 @@ Each chapter in this repository represents a key concept in machine learning, ac
 
 ---
 
-## 🔥 Additional Enhancements & Contributions
+## Additional Enhancements & Contributions
 
-- **Extended model evaluations** by testing on **alternative datasets**.
 - **Explored hyperparameter tuning** beyond defaults provided in the learning path.
 - **Wrote detailed analyses** on model strengths, weaknesses, and improvements.
 - **Refactored code** for clarity, modularity, and reusability.
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 1. Clone this repository:
    ```bash
@@ -95,7 +94,7 @@ Each chapter in this repository represents a key concept in machine learning, ac
 
 ## 🔗 Connect with Me
 
-If you have any questions or would like to discuss machine learning, feel free to connect with me on **[LinkedIn](YOUR_LINKEDIN_PROFILE)** or check out my **[GitHub profile](YOUR_GITHUB_PROFILE)**!
+If you have any questions or would like to discuss machine learning, feel free to connect with me on **[LinkedIn](www.linkedin.com/in/yogya-gupta-0355b221a)** or check out my **[GitHub profile](https://github.com/ygpta0803)**!
 
 ---
 
