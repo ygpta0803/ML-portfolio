@@ -96,8 +96,6 @@ Each chapter in this repository represents a key concept in machine learning, ac
 
 If you have any questions or would like to discuss machine learning, feel free to connect with me on **[LinkedIn](www.linkedin.com/in/yogya-gupta-0355b221a)** or check out my **[GitHub profile](https://github.com/ygpta0803)**!
 
----
 
-This repository reflects my ongoing journey in machine learning, and I will continue adding new projects and refinements. Stay tuned! 🚀
 
 
