@@ -8,7 +8,7 @@ Each chapter in this repository contains a practical challenge representing a ke
 
 ## Table of Contents
 
-1. **[Data Exploration](#data-exploration)**
+1. **[Data Exploration](https://github.com/ygpta0803/ML-portfolio/blob/main/01%20-%20Flights%20Challenge.ipynb)**
 2. **[Regression](#regression)**
 3. **[Classification](#classification)**
 4. **[Clustering](#clustering)**
