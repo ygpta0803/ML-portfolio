@@ -4,7 +4,7 @@
 
 This repository contains my implementations and analyses of machine learning concepts, inspired by the **'Create Machine Learning Models' learning path on Microsoft Learn**. While the modules provide structured lessons using tools like **scikit-learn, TensorFlow, and PyTorch**, I have extended the exercises by exploring additional datasets, conducting extra **hyperparameter tuning**, and providing in-depth **analysis and insights**.
 
-Each chapter in this repository represents a key concept in machine learning, accompanied by a practical challenge where I have gone beyond the provided material to further develop my understanding.
+Each chapter in this repository contains a practical challenge representing a key concept in machine learning, where I have gone beyond the provided material to further develop my understanding.
 
 ## Table of Contents
 
