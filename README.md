@@ -36,7 +36,6 @@ Each chapter in this repository contains a practical challenge representing a ke
 
 - Developed **logistic regression, decision tree classifiers, and support vector machines (SVMs)**.
 - Used **ROC curves, precision-recall metrics, and confusion matrices** for evaluation.
-- Experimented with **imbalanced datasets**, applying **SMOTE and other resampling techniques**.
 - Additional Work: Built a **custom ensemble classifier** combining multiple base models for better accuracy.
 
 ## 4. Clustering
