@@ -9,7 +9,7 @@ Each chapter in this repository contains a practical challenge representing a ke
 ## Table of Contents
 
 1. **[Data Exploration](https://github.com/ygpta0803/ML-portfolio/blob/main/01%20-%20Flights%20Challenge.ipynb)**
-2. **[Regression](#regression)**
+2. **[Regression](https://github.com/ygpta0803/ML-portfolio/blob/main/02%20-%20Real%20Estate%20Regression%20Challenge.ipynb)**
 3. **[Classification](https://github.com/ygpta0803/ML-portfolio/blob/main/03%20-%20Wine%20Classification%20Challenge.ipynb)**
 4. **[Clustering](#clustering)**
 5. **[Deep Neural Networks](#deep-neural-networks)**
