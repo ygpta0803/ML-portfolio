@@ -45,7 +45,7 @@ Each chapter in this repository contains a practical challenge representing a ke
 - Compared different clustering metrics, such as **silhouette scores**.
 - Additional Work: Explored clustering on a **real-world dataset**, analyzing business applications of clustering algorithms.
 
-## 5. Deep Neural Networks
+## 5. Deep Neural Networks (Under process)
 
 ### PyTorch & TensorFlow Implementations
 
@@ -54,7 +54,7 @@ Each chapter in this repository contains a practical challenge representing a ke
 - Optimized models using **Adam, SGD, and RMSprop optimizers**.
 - Additional Work: Compared **dropout rates** and **batch normalization** effects on model generalization.
 
-## 6. Convolutional Neural Networks (CNNs)
+## 6. Convolutional Neural Networks (CNNs)  (Under process)
 
 ### PyTorch & TensorFlow Implementations
 
@@ -63,7 +63,7 @@ Each chapter in this repository contains a practical challenge representing a ke
 - Evaluated performance using **accuracy, F1-score, and confusion matrices**.
 - Additional Work: Implemented **custom CNN architectures**, testing different **kernel sizes and pooling strategies**.
 
-## 7. Transfer Learning
+## 7. Transfer Learning  (Under process)
 
 ### PyTorch & TensorFlow Implementations
 
